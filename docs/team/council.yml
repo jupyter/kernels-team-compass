@@ -8,6 +8,71 @@
 #   last-check-in: 2022-1
 
 
+- name: Matthias Bussonnier
+  handle: "@Carreau"
+  affiliation: Quansight Labs
+  team: active
+  last-check-in: 2022-05
+
+- name: Carlos Córdoba
+  handle: "@ccordoba12"
+  affiliation: Quansight
+  team: active
+  last-check-in: 2022-05
+
+- name: Sylvain Corlay
+  handle: "@SylvainCorlay"
+  affiliation: QuantStack
+  team: active
+  last-check-in: 2022-05
+
+- name: Afshin Darian
+  handle: "@afshin"
+  affiliation: QuantStack
+  team: active
+  last-check-in: 2022-05
+
+- name: Jason Grout
+  handle: "@jasongrout"
+  affiliation: Databricks
+  team: active
+  last-check-in: 2022-05
+
+- name: Paul Ivanov
+  handle: "@ivanov"
+  affiliation: Noteable
+  team: active
+  last-check-in: 2022-05
+
+- name: Johan Mabille
+  handle: "@johanmabille"
+  affiliation: QuantStack
+  team: active
+  last-check-in: 2022-05
+
+- name: Fernando Perez
+  handle: "@fperez"
+  affiliation: University of California, Berkeley
+  team: active
+  last-check-in: 2022-05
+
+- name: Min Ragan-Kelley
+  handle: "@minrk"
+  affiliation: Simula
+  team: active
+  last-check-in: 2022-05
+
+- name: Steve Silvester
+  handle: "@blink1073"
+  affiliation: MongoDB
+  team: active
+  last-check-in: 2022-05
+
+- name: Carol Willing
+  handle: "@willingc"
+  affiliation: Noteable
+  team: active
+  last-check-in: 2022-05
 
 
 # Inactive council members at the end, also alphabetical
