@@ -74,5 +74,10 @@
   team: active
   last-check-in: 2022-05
 
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Apple
+  team: active
+  last-check-in: 2022-09
 
 # Inactive council members at the end, also alphabetical
