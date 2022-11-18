@@ -26,3 +26,9 @@ current active member.
 .. include:: team/inactive.txt
 
 ```
+
+## Software Steering Council (SSC) Representative
+
+Each *official* subproject in Jupyter gets a single [Software Steering Council representative](https://jupyter.org/governance/software_steering_council.html#software-steering-council). Jupyter Kernel's representative is elected by the active team members. In the Jupyter Kernel subproject, our representative is elected to a one-year term.
+
+Jupyter Kernel's SSC representative is Johan Mabille.
