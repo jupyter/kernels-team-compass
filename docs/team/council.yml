@@ -1,6 +1,12 @@
 # Active Council members
 # Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
 
+- name: David Brochart
+  handle: "@davidbrochart"
+  affiliatoin: QuantStack
+  team: active
+  last-cehck-in: 2024-01
+
 - name: Matthias Bussonnier
   handle: "@Carreau"
   affiliation: Quansight Labs
