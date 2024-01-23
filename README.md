@@ -2,7 +2,11 @@
 A repository for team interaction, syncing, and handling meeting notes across
 the Jupyter Kernels ecosystem.
 
-## Code of Conduct
-As an official part of Project Jupyter, all communication across all
-repositories in this organization should adhere to the
-[Project Jupyter Code of Conduct.](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md)
+## Weekly Team Meetings
+
+The weekly meeting of Jupyer Kernels has been merged with that of Jupyter Server:
+
+* When: Thursdays [8:00am, Pacific time](https://www.thetimezoneconverter.com/?t=8%3A00%20am&tz=San%20Francisco&)
+* Where: [Jovyan Zoom](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
+* What: [Meeting notes](https://github.com/jupyter-server/team-compass/issues/45)
+
