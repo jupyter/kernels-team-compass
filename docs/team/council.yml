@@ -66,12 +66,19 @@
   affiliation: Apple
   team: active
   last-check-in: 2024-01
-
+  
+- name: Ian Thomas
+  handle: "@ianthomas23"
+  affiliation: QuantStack
+  team: active
+  last-check-in: 2025-03
+  
 - name: Kevin Bates
   handle: "@kevin-bates"
   affiliation: IBM
   team: active
   last-check-in: 2024-01
+
   
 # Inactive council members at the end, also alphabetical
 
